@@ -24,7 +24,7 @@ to alter the hardware and/or software of an information system or service provid
 
 Anonymous – Without reference to a true identity. Entirely without identification, or pseudonymous.
 
-Anonymous Network - A network of computers whose sole purpose is to anonymize the traffic passing through it in order to hide the identity of a user. Including but not limited to; TOR, Darknet, VPNs or Proxies.
+Anonymous Network - A network of computers whose sole purpose is to anonymize the traffic passing through it in order to hide the identity of a user. Includes but is not limited to Tor, Darknet, virtual private networks and proxies.
 
 Bandwidth - The amount of Data that can be successfully transported via means of Network Devices without the occurrence Data loss; Measured in Bits per Second.
 
