@@ -1,0 +1,13 @@
+Article IV. Content Removal
+
+A) The removal of illegal data from any service or information system must follow the guidelines found in this article.
+
+B) Notice must be given to an administrator of the information system and to the uploader of the content if possible at least 30 days in advance of any deletion of data from any information system or service, or within 24 hours of the transfer of the data in question from publicly accessible storage to privately accessible storage.
+1) Verified electronic means of communication, as in an email signed with digital signature, can be used for issuing the notice.
+2) Only the data in question may be so deleted or transferred. Related data, including but not limited to, data that describes the content or location of the Data in question, any of the uploader’s private data, or any data that is part of the function of an information system or service provider shall not be required to be removed.
+3) Within the allowed 30 days, the uploader of the data in question may respond to the information system administrator with a request to stop or reverse the removal of the data in question. If the user verifies their identity and additionally offers a reasonable assertion of fair use or other reasonable defense to the claim that the data in question is illegal, the service provider may at their discretion forward such identity and claim to the complainant and reverse the removal without liability until a judicial authority has determined whether the claim is valid.
+
+C) Information systems and administrators must provide notice to the uploader regarding any removal when and why data will be removed under this article, and who has ordered such a removal.
+
+D) Orders to remove data based on willful false claims or by entities that do not represent or possess the rights to object to the Upload of the content in question will be considered acts of censoring, and defamation of the character of the uploader in the form of wrongful accusation of criminal activity.
+1) Willful false claims of copyright infringement shall be treated and tried as equivalent to copyright infringement, and will only be diminishable on the sole condition of proof provided and accepted by a ruling court that supports the defendant’s reason for claiming infringement. No law or act shall diminish the liability wrongful claims of infringement shall carry as set forth by this act.

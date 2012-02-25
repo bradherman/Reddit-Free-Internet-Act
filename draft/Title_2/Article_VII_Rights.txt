@@ -1,0 +1,18 @@
+Article VII. Rights of the user
+
+A) Every user has a right to appear as anonymous and/or under pseudonym.
+1) No data collected by an Information System under claim that it is collected to help the user to use the service (for example mobile numbers to aid password recovery) may be demanded, used or shared in a way that may lead to the user losing their anonymity.
+2) Information systems have to explicitly specify the data that they may use and share to help in identifying the user, the IP address is excepted from this and is bound by condition in Article V [B.1].
+
+B) Everything the user does with his/her computer is considered private. This privacy may only be breached while the set criteria of section C is fulfilled.
+
+C) A user’s privacy can only be breached while
+1) User is suspected of illegal acts in the user’s residing country.
+2) Adequate evidence, as defined in Article V Section B has been obtained
+3) The international authority as defined in Article VII should be informed, and authorization collected in advance if at all a breach if privacy is to be initiated.
+
+D) The use of anonymizing networks (Proxies) is protected.
+1) The service providers or users in general of these services are not required to provide any information that may lead to the identification of an anonymous user.
+2) Monitoring of traffic in, out of inside of an anonymizing network is prohibited
+
+E) No discrimination or suspicion may be based on the methods employed by a user to ensure their security and privacy on the Internet.
