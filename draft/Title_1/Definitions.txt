@@ -1,0 +1,66 @@
+Administrator – Any person who has:
+1) The authority, permission, or right
+2) The capability, including access
+to alter the hardware and/or software of an information system or service provider. Exception: A person is not an administrator if that person’s authority, permission, right, and access are no greater than the majority of other users of the information system or service, or if the greater authority, permission, right and access are functions of the information system or service.
+
+Anonymous – Without reference to a true identity. Entirely without identification, or pseudonymous.
+
+Anonymous Network - A network of computers whose sole purpose is to anonymize the traffic passing through it in order to hide the identity of a user. Including but not limited to; TOR, Darknet, VPNs or Proxies.
+
+Bandwidth - The amount of Data that can be successfully transported via means of Network Devices without the occurrence Data loss; Measured in Bits per Second.
+
+Censorship – The restriction, method of restriction or acts that restrict the distribution, filter the content or modify any data whatsoever in an attempt to restrict the information from reaching others who are eligible for it’s reception as per laws in place and the creators’ ideas and understanding of the propagation of data.
+
+Content – A work, a piece of information or data.
+
+Consumer - One who initiates the download of material
+
+Creator – A person, group, or entity who creates or produces content or derives or moden
+
+Data – A digital representation of information, including but not limited to video, audio or text, which may be readable by or transmissible between either a human or a machine or other information system such as a network of computers.
+
+Download – The act of retrieving, transferring or copying data from an external or remote information system to a local storage medium or device including but not limited to mobile phones or other handsets, personal computers or other personal information systems.
+
+Downloader – A user that initiates a download.
+
+Educational use – The copying and distribution of data to a clearly defined group of people for the sole purpose of teaching, whereas none of the participants have a commercial interests in the use of data.
+
+Electronic Communication – The method of transferring data between multiple information systems by means of electronic method to which information system has access and right of use.
+
+Fair Use – As defined in 17 U.S.C. Sec. 107.
+
+File – A self contained piece of data including but not limited to an image, segment of audio or video, text or other work, typically stored on a hard drive, disk or other storage medium or information system, which may be copied, distributed, uploaded, downloaded or otherwise transmitted or received over a network or physically via a physical storage medium.
+
+File Sharing – The upload of data or the action of making data available for the purpose of allowing other parties to download and/or redistribute that data.
+
+Illegal Content – Content that is imposing cruel, inhuman, defaming, or degrading treatment on an individual or party. Content that is intended purposefully creates monetary or collateral damage at the instance, or during usage of access by a user, individual or party.
+
+Internet - A public network of technological data transmission. It may take several forms including but not limited to: the world wide web, cloud services, ftp and data only networks (such as cellular 3G and 4G networks).
+
+Information System – Any system which may contain one or more of a person or persons, hardware, software and related infrastructure, that allow users, service providers or other information systems to receive, remove, process, store and distribute data.
+
+Intellectual Property - Intangible properties, works, or assets that hold exclusive rights held by a creator and/or owner(s).
+
+Internet Protocol (IP) - Currently the primary convention by which interconnected nodes use to communicate amongst one another, provided by a controlled syntax and communication structure.
+Link – Any data that contains the location of other data.
+
+Media – The channels and tools used for the storage of and transmission of data including but not limited to hard drives and compact discs.
+
+Private Data – Either of the following:
+1) Data that positively identifies a user or any of a user’s property,
+2) Data that might cause harm to a user if it were to become public data,
+Exception: Data that the user in 1) or 2) has explicitly agreed to make public data is not private data.
+
+
+Public Data – Any data legally accessible to an anonymous user.
+
+Service Providers (or Providers) – Any company or individual who provides users with access to public data and/or information systems.
+
+Transmission – The process of sending and propagating a point-to-point or point-to-multi-point signal
+
+Upload – The act of sending, transferring or copying data from a local storage medium or device including but not limited to mobile phones or other handsets, personal computers or other personal information systems to an external or remote information system.
+
+Uploader – A user that initiates an upload.
+
+User – An individual that is utilizing a service, tool, program, or information system; an uploader or a downloader.
+

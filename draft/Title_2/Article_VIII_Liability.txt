@@ -1,0 +1,16 @@
+Article VIII. Liability and Settlement of Copyright Infringement Claim
+
+A) The liability of a copyright infringement will be strictly limited to the damage it caused as described here.
+1) All calculations related to this are to be carried out in a consumer, retail, individual level pricing upon which the production cost, marketing cost will not influence.
+2) The maximum liability of the user who has committed infringement can be 110% of the calculated damage.
+
+B) The user may only be held liable for the data that he/she (they?) infringed. The user may not be held responsible for any data not directly handled/accessed by the user in question.
+
+C) The damages and and its extent is to be calculated by considering the number of receivers of the shared file.
+1) If the data was shared with a single individual the retail price of that data as marketed by the creator is to be considered as damage and maximum liability cap is applicable.
+2) For number of receivers is between 2 and 75, the multiple of the marketed value of product for personal use will be considered as damage, maximum liability cap is applicable.
+3) For numbers greater than 75 but less than 1000 the amount payable by a distributor for as many copies will apply as the damage. A maximum liability cap of 150% is applicable.
+4) For anything greater than 1000 receivers a nominal charge for mass distribution may be collected. with a liability cap of 150%.
+
+D) All fair use and educational use activities will be considered as non damage causing and liability free.
+
